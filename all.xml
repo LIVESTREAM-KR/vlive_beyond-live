@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 05:38:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 17:46:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -151,6 +151,14 @@
             <content:encoded><![CDATA[Beyond LIVE]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Beyond LIVE #Cinema - KAI : KLoor (Beyond LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-26866781</link>
+            <guid>https://www.vlive.tv/post/1-26866781</guid>
+            <pubDate>Thu, 09 Dec 2021 17:46:37 GMT</pubDate>
+            <content:encoded><![CDATA[Beyond LIVE #Cinema - KAI : KLoor]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net//20211209_115/1639028952213BuWD9_JPEG/%C4%AB%C0%CC%BA%F1%BF%E6%B5%E5%B6%F3%C0%CC%BA%EA.JPG?type=f144x144" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[Beyond LIVE – KEY : ‘GROKS IN THE KEYLAND’ (Beyond LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-25590742</link>
             <guid>https://www.vlive.tv/post/0-25590742</guid>
@@ -172,7 +180,6 @@
             <guid>https://www.vlive.tv/post/1-25427772</guid>
             <pubDate>Fri, 26 Nov 2021 22:15:07 GMT</pubDate>
             <content:encoded><![CDATA[[ES] Beyond LIVE - KEY : ‘GROKS IN THE KEYLAND’]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210917_193/1631861931495Q6uME_JPEG/97efa68b-1784-11ec-a509-a0369ff968b0_01.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[VIET] Beyond LIVE - KEY : ‘GROKS IN THE KEYLAND’ (Beyond LIVE)]]></title>
@@ -285,13 +292,6 @@
             <guid>https://www.vlive.tv/post/1-24532393</guid>
             <pubDate>Fri, 26 Nov 2021 22:15:07 GMT</pubDate>
             <content:encoded><![CDATA[[CN] Red Velvet Online Fanmeeting - inteRView vol.7 : Queendom]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[EN] Red Velvet Online Fanmeeting - inteRView vol.7 : Queendom (Beyond LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-24532347</link>
-            <guid>https://www.vlive.tv/post/1-24532347</guid>
-            <pubDate>Fri, 26 Nov 2021 22:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[[EN] Red Velvet Online Fanmeeting - inteRView vol.7 : Queendom]]></content:encoded>
         </item>
     </channel>
 </rss>
