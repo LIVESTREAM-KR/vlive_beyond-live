@@ -4,9 +4,16 @@
         <title>Beyond LIVE ─ Notice</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 05:37:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 17:44:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Re-Streaming  공지] 'Beyond LIVE - NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK']]></title>
+            <link>https://www.vlive.tv/post/1-26977454</link>
+            <guid>https://www.vlive.tv/post/1-26977454</guid>
+            <pubDate>Fri, 17 Dec 2021 17:44:38 GMT</pubDate>
+            <content:encoded><![CDATA[Beyond LIVE]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Beyond LIVE - KEY : ‘GROKS IN THE KEYLAND’ 당첨자 50인 발표]]></title>
             <link>https://www.vlive.tv/post/0-25979402</link>
@@ -29,7 +36,6 @@
             <guid>https://www.vlive.tv/post/1-22243740</guid>
             <pubDate>Fri, 26 Nov 2021 22:15:00 GMT</pubDate>
             <content:encoded><![CDATA[Beyond LIVE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210710_152/1625896682300a0iME_JPEG/image.JPEG?type=f200" length="0" type="image/JPEG"/>
         </item>
         <item>
             <title><![CDATA[[공지] Beyond LIVE- SHINee : SHINee WORLD Delay Streaming 스케줄 변동 안내]]></title>
@@ -140,13 +146,6 @@
             <title><![CDATA[잠시 후 5분 뒤인 13시 (KST), WayV와 함께하는 실시간 채팅이 시작됩니다.]]></title>
             <link>https://www.vlive.tv/post/0-13931436</link>
             <guid>https://www.vlive.tv/post/0-13931436</guid>
-            <pubDate>Fri, 26 Nov 2021 22:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[Beyond LIVE]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[WayV LIVE - Beyond The Vision]]></title>
-            <link>https://www.vlive.tv/post/0-13821399</link>
-            <guid>https://www.vlive.tv/post/0-13821399</guid>
             <pubDate>Fri, 26 Nov 2021 22:15:00 GMT</pubDate>
             <content:encoded><![CDATA[Beyond LIVE]]></content:encoded>
         </item>
