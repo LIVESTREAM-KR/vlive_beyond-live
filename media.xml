@@ -4,9 +4,17 @@
         <title>Beyond LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 05:38:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 17:46:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beyond LIVE-TWICE 4TH WORLD TOUR ‘Ⅲ’ : SEOUL]]></title>
+            <link>https://www.vlive.tv/post/0-27048524</link>
+            <guid>https://www.vlive.tv/post/0-27048524</guid>
+            <pubDate>Thu, 23 Dec 2021 17:46:28 GMT</pubDate>
+            <content:encoded><![CDATA[Beyond LIVE-TWICE 4TH WORLD TOUR ‘Ⅲ’ : SEOUL]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net//20211223_164/1640250801779MuRgp_JPEG/%C6%AE%BF%CD%C0%CC%BD%BA_%BA%F1%BF%E6%B5%E5%B6%F3%C0%CC%BA%EA_%C6%F7%BD%BA%C5%CD.jpg?type=f144x144" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Beyond LIVE - NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK']]></title>
             <link>https://www.vlive.tv/post/0-26956762</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-25590742</guid>
             <pubDate>Thu, 02 Dec 2021 17:43:00 GMT</pubDate>
             <content:encoded><![CDATA[Beyond LIVE – KEY : ‘GROKS IN THE KEYLAND’]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210924_59/1632448976482VAyvW_JPEG/image.jpg?type=f144x144" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Beyond LIVE – KEY : ‘GROKS IN THE KEYLAND’] EVENT OPEN!]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-24532450</guid>
             <pubDate>Thu, 02 Dec 2021 17:43:00 GMT</pubDate>
             <content:encoded><![CDATA[[VIET] Red Velvet Online Fanmeeting - inteRView vol.7 : Queendom]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[IND] Red Velvet Online Fanmeeting - inteRView vol.7 : Queendom]]></title>
-            <link>https://www.vlive.tv/post/1-24532415</link>
-            <guid>https://www.vlive.tv/post/1-24532415</guid>
-            <pubDate>Thu, 02 Dec 2021 17:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[[IND] Red Velvet Online Fanmeeting - inteRView vol.7 : Queendom]]></content:encoded>
         </item>
     </channel>
 </rss>
