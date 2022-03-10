@@ -12,8 +12,19 @@ waitUntil = "networkidle"
 onFail = "stale"
 
 [media]
-title = "Beyond LIVE"
+title = "Beyond LIVE ─ Media"
 url = "https://www.vlive.tv/channel/A15BBB/board/6573&lang=ko"
+entrySelector = "li[class^='post_item']"
+titleSelector = "strong[class^='title_text']"
+linkSelector = "a[class^='post_area']"
+imageSelector = "span[class^='covered_image']"
+contentSelector = "strong[class^='title_text']"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[plus]
+title = "Beyond LIVE ─ VLIVE+"
+url = "https://www.vlive.tv/channel/A15BBB/board/6574&lang=ko"
 entrySelector = "li[class^='post_item']"
 titleSelector = "strong[class^='title_text']"
 linkSelector = "a[class^='post_area']"
