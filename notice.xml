@@ -1,8 +1,153 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/channel/A15BBB/board/3169</id>
-    <title>Beyond LIVE ─ Notice</title>
-    <updated>2022-11-16T05:42:07.621Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Beyond LIVE ─ Notice</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:52:33 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['Beyond LIVE-TWICE 4TH WORLD TOUR ‘Ⅲ’ : SEOUL' 출연자 관련 공지문]]></title>
+            <link>https://www.vlive.tv/post/1-27057031</link>
+            <guid>https://www.vlive.tv/post/1-27057031</guid>
+            <pubDate>Wed, 16 Nov 2022 17:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[Beyond LIVE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Re-Streaming  공지] 'Beyond LIVE - NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK']]></title>
+            <link>https://www.vlive.tv/post/1-26977454</link>
+            <guid>https://www.vlive.tv/post/1-26977454</guid>
+            <pubDate>Wed, 16 Nov 2022 17:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[Beyond LIVE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - KEY : ‘GROKS IN THE KEYLAND’ 당첨자 50인 발표]]></title>
+            <link>https://www.vlive.tv/post/0-25979402</link>
+            <guid>https://www.vlive.tv/post/0-25979402</guid>
+            <pubDate>Wed, 16 Nov 2022 17:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[Beyond LIVE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net//20211015_150/16342810248600dUYy_JPEG/key_event_table.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE NCT2020 / BAEKHYUN VOD 출시일정 공지]]></title>
+            <link>https://www.vlive.tv/post/1-23962350</link>
+            <guid>https://www.vlive.tv/post/1-23962350</guid>
+            <pubDate>Wed, 16 Nov 2022 17:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[Beyond LIVE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210709_19/1625811670242TzgIu_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[추가공지]「Beyond LIVE – SHINee : SHINee WORLD」 Delay Streaming 일정 추가 공지]]></title>
+            <link>https://www.vlive.tv/post/1-22243740</link>
+            <guid>https://www.vlive.tv/post/1-22243740</guid>
+            <pubDate>Wed, 16 Nov 2022 17:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[Beyond LIVE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공지] Beyond LIVE- SHINee : SHINee WORLD Delay Streaming 스케줄 변동 안내]]></title>
+            <link>https://www.vlive.tv/post/1-22194093</link>
+            <guid>https://www.vlive.tv/post/1-22194093</guid>
+            <pubDate>Wed, 16 Nov 2022 17:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[Beyond LIVE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[사과공지문 / Notice / VOD 提供案内に関するお詫び]]></title>
+            <link>https://www.vlive.tv/post/1-22044511</link>
+            <guid>https://www.vlive.tv/post/1-22044511</guid>
+            <pubDate>Wed, 16 Nov 2022 17:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[Beyond LIVE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘Beyond LIVE - NCT : RESONANCE 'Global Wave’  출연자 관련 공지문]]></title>
+            <link>https://www.vlive.tv/post/0-20500468</link>
+            <guid>https://www.vlive.tv/post/0-20500468</guid>
+            <pubDate>Wed, 16 Nov 2022 17:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[Beyond LIVE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Announcement] Multi-Cam Operation Plan per Artist for Beyond LIVE -2020 K-POP x K-ART CONCERT SUPER KPA]]></title>
+            <link>https://www.vlive.tv/post/0-20094892</link>
+            <guid>https://www.vlive.tv/post/0-20094892</guid>
+            <pubDate>Wed, 16 Nov 2022 17:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[Beyond LIVE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘 17:00(KST), SUPER JUNIOR-K.R.Y.와 함께하는 실시간 채팅이 시작됩니다.]]></title>
+            <link>https://www.vlive.tv/post/0-16545408</link>
+            <guid>https://www.vlive.tv/post/0-16545408</guid>
+            <pubDate>Wed, 16 Nov 2022 17:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[Beyond LIVE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[안내] Beyond LIVE – TWICE : World in A Day 멀티캠 진행 관련 안내]]></title>
+            <link>https://www.vlive.tv/post/0-16262651</link>
+            <guid>https://www.vlive.tv/post/0-16262651</guid>
+            <pubDate>Wed, 16 Nov 2022 17:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[Beyond LIVE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공지] Beyond LIVE 생중계 관람권 구매자 대상 ‘깜짝 선물’ 관련]]></title>
+            <link>https://www.vlive.tv/post/1-15482438</link>
+            <guid>https://www.vlive.tv/post/1-15482438</guid>
+            <pubDate>Wed, 16 Nov 2022 17:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[Beyond LIVE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘 17:50(KST), SUPER JUNIOR와 함께하는 실시간 채팅이 시작됩니다.]]></title>
+            <link>https://www.vlive.tv/post/1-14534596</link>
+            <guid>https://www.vlive.tv/post/1-14534596</guid>
+            <pubDate>Wed, 16 Nov 2022 17:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[Beyond LIVE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘 19:40(KST), TVXQ!와 함께하는 실시간 채팅이 시작됩니다. Real time live cha...]]></title>
+            <link>https://www.vlive.tv/post/0-14343681</link>
+            <guid>https://www.vlive.tv/post/0-14343681</guid>
+            <pubDate>Wed, 16 Nov 2022 17:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[Beyond LIVE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘 18:30 (KST), NCT 127과 함께하는 실시간 채팅이 시작됩니다.]]></title>
+            <link>https://www.vlive.tv/post/0-14186103</link>
+            <guid>https://www.vlive.tv/post/0-14186103</guid>
+            <pubDate>Wed, 16 Nov 2022 17:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[Beyond LIVE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[💚D-1💚Beyond the Dream Show]]></title>
+            <link>https://www.vlive.tv/post/0-14092997</link>
+            <guid>https://www.vlive.tv/post/0-14092997</guid>
+            <pubDate>Wed, 16 Nov 2022 17:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[Beyond LIVE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이선좌+광탈 없는 콘서트 주시술 있나요...🤔⁉️]]></title>
+            <link>https://www.vlive.tv/post/1-14099146</link>
+            <guid>https://www.vlive.tv/post/1-14099146</guid>
+            <pubDate>Wed, 16 Nov 2022 17:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[Beyond LIVE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🚨Spoiler Alert! JSMR Beyond the Dream Show ver. 🚨]]></title>
+            <link>https://www.vlive.tv/post/0-14092882</link>
+            <guid>https://www.vlive.tv/post/0-14092882</guid>
+            <pubDate>Wed, 16 Nov 2022 17:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[Beyond LIVE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[잠시 후 18:10 (KST) NCT DREAM과 함께하는 실시간 채팅이 시작됩니다. Real time li...]]></title>
+            <link>https://www.vlive.tv/post/1-13978682</link>
+            <guid>https://www.vlive.tv/post/1-13978682</guid>
+            <pubDate>Wed, 16 Nov 2022 17:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[Beyond LIVE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[잠시 후 14:05 (KST) WayV와 함께하는 실시간 채팅이 시작됩니다.]]></title>
+            <link>https://www.vlive.tv/post/0-13955435</link>
+            <guid>https://www.vlive.tv/post/0-13955435</guid>
+            <pubDate>Wed, 16 Nov 2022 17:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[Beyond LIVE]]></content:encoded>
+        </item>
+    </channel>
+</rss>
